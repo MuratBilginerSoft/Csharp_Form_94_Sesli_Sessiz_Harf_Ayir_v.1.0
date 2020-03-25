@@ -1,0 +1,14 @@
+C:\Users\murat\Desktop\ \C#\Sesli Sessiz Harf Ayır\Sesli Sessiz Harf Ayır\bin\Debug\Sesli Sessiz Harf Ayır.exe
+C:\Users\murat\Desktop\ \C#\Sesli Sessiz Harf Ayır\Sesli Sessiz Harf Ayır\bin\Debug\Sesli Sessiz Harf Ayır.pdb
+C:\Users\murat\Desktop\ \C#\Sesli Sessiz Harf Ayır\Sesli Sessiz Harf Ayır\obj\x86\Debug\Sesli_Sessiz_Harf_Ayır.Form1.resources
+C:\Users\murat\Desktop\ \C#\Sesli Sessiz Harf Ayır\Sesli Sessiz Harf Ayır\obj\x86\Debug\Sesli_Sessiz_Harf_Ayır.Properties.Resources.resources
+C:\Users\murat\Desktop\ \C#\Sesli Sessiz Harf Ayır\Sesli Sessiz Harf Ayır\obj\x86\Debug\Sesli Sessiz Harf Ayır.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \C#\Sesli Sessiz Harf Ayır\Sesli Sessiz Harf Ayır\obj\x86\Debug\Sesli Sessiz Harf Ayır.exe
+C:\Users\murat\Desktop\ \C#\Sesli Sessiz Harf Ayır\Sesli Sessiz Harf Ayır\obj\x86\Debug\Sesli Sessiz Harf Ayır.pdb
+E:\04 - Yazılım\04 - Form Projeleri\52 Sesli Sessiz Harf Ayır V1.0\Sesli Sessiz Harf Ayır\obj\x86\Debug\Sesli Sessiz Harf Ayır.exe
+E:\04 - Yazılım\04 - Form Projeleri\52 Sesli Sessiz Harf Ayır V1.0\Sesli Sessiz Harf Ayır\obj\x86\Debug\Sesli Sessiz Harf Ayır.pdb
+E:\04 - Yazılım\04 - Form Projeleri\52 Sesli Sessiz Harf Ayır V1.0\Sesli Sessiz Harf Ayır\bin\Debug\Sesli Sessiz Harf Ayır.exe
+E:\04 - Yazılım\04 - Form Projeleri\52 Sesli Sessiz Harf Ayır V1.0\Sesli Sessiz Harf Ayır\bin\Debug\Sesli Sessiz Harf Ayır.pdb
+E:\04 - Yazılım\04 - Form Projeleri\52 Sesli Sessiz Harf Ayır V1.0\Sesli Sessiz Harf Ayır\obj\x86\Debug\Sesli_Sessiz_Harf_Ayır.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\52 Sesli Sessiz Harf Ayır V1.0\Sesli Sessiz Harf Ayır\obj\x86\Debug\Sesli_Sessiz_Harf_Ayır.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\52 Sesli Sessiz Harf Ayır V1.0\Sesli Sessiz Harf Ayır\obj\x86\Debug\Sesli Sessiz Harf Ayır.csproj.GenerateResource.Cache
